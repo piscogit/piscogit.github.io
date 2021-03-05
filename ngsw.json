@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614951499543,
+  "timestamp": 1614952148374,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -245,6 +245,7 @@
         "/svg/close-sharp.svg",
         "/svg/close.svg",
         "/svg/cloud-download.svg",
+        "/svg/cloud-upload.svg",
         "/svg/color-palette.svg",
         "/svg/copy.svg",
         "/svg/create-outline.svg",
@@ -491,6 +492,7 @@
     "/svg/close-sharp.svg": "5911dc41f5ff38002c4695112b0e5f11360f6500",
     "/svg/close.svg": "2f29b8e2b5c33aeef9778e372556fd68c94a48b0",
     "/svg/cloud-download.svg": "3dc158e8c61003a6364ff499aca41ad57c78eee0",
+    "/svg/cloud-upload.svg": "3afb992e9f56edea0942a2aea93585fee97283ae",
     "/svg/color-palette.svg": "b208d426928f67311c9963849781d92906765647",
     "/svg/copy.svg": "0804ecbdad8cbe7c96a91423713b301eed178d3c",
     "/svg/create-outline.svg": "2a33e7429b257e50f94b34ceb5d339ceb2793a27",
