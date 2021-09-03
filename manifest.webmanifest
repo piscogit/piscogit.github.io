@@ -6,11 +6,6 @@
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
-  "permissions": {
-    "audio-capture": {
-      "description": "Required to capture audio using getUserMedia()"
-    }
-  },
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
